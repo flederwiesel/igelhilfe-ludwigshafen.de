@@ -1,0 +1,335 @@
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 400;
+	src: url(fonts/OpenSans-400.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 500;
+	src: url(fonts/OpenSans-500.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 600;
+	src: url(fonts/OpenSans-600.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: "Open Sans";
+	font-style: normal;
+	font-weight: 700;
+	src: url(fonts/OpenSans-700.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: "Source Serif Pro";
+	font-style: normal;
+	font-weight: 400;
+	src: url(fonts/SourceSerifPro-400.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: "Source Serif Pro";
+	font-style: normal;
+	font-weight: 600;
+	src: url(fonts/SourceSerifPro-600.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: "Source Serif Pro";
+	font-style: normal;
+	font-weight: 700;
+	src: url(fonts/SourceSerifPro-700.ttf) format("truetype");
+}
+
+@media screen and (max-width: 779px) {
+	/* mobile */
+	body {
+		background-position: center;
+	}
+
+	#diner {
+		position: fixed;
+		top: 0;
+		right: 0;
+		padding: 1em;
+		z-index: 666;
+	}
+
+	#diner input {
+		display: none;
+	}
+
+	/* https://w3codepen.com/howto-html-css-hamburger-menu-icon/ */
+	#hamburger span {
+		display: block;
+		position: relative;
+		background: #333;
+		margin: .3em;
+		height: .3em;
+		width: 2em;
+		border-radius: 2px;
+		cursor:pointer;
+
+		-webkit-transition: .25s ease-in-out;
+		-moz-transition: .25s ease-in-out;
+		-o-transition: .25s ease-in-out;
+		transition: .25s ease-in-out;
+	}
+
+	#showmenu:checked ~ #hamburger span:nth-child(1) {
+		-webkit-transform: rotate(135deg) translate(.42em, -.42em);
+		-moz-transform: rotate(135deg) translate(.42em, -.42em);
+		-o-transform: rotate(135deg) translate(.42em, -.42em);
+		transform: rotate(135deg) translate(.42em, -.42em);
+	}
+
+	#showmenu:checked ~ #hamburger span:nth-child(2) {
+		opacity: 0;
+	}
+
+	#showmenu:checked ~ #hamburger span:nth-child(3) {
+		-webkit-transform: rotate(-135deg) translate(.42em, .42em);
+		-moz-transform: rotate(-135deg) translate(.42em, .42em);
+		-o-transform: rotate(-135deg) translate(.42em, .42em);
+		transform: rotate(-135deg) translate(.42em, .42em);
+	}
+
+	#navbar {
+		position: sticky;
+		top: 0;
+	}
+
+	#header {
+		display: table;
+	}
+
+	#header h1 {
+		margin: 0;
+	}
+
+	#heading {
+		display: table-cell;
+		vertical-align: middle;
+		height: 4em;
+		padding-left: 6em;
+		padding-right: 3em;
+		background: url(img/igor-150.jpg) no-repeat;
+		background-size: 5em 5em;
+		background-position: left center;
+	}
+
+	#menu {
+		position: fixed;
+		top: 0;
+		width: 100%;
+		height: 100%;
+		background: white;
+	}
+
+	#menu.collapsed {
+		display: none;
+	}
+
+	#menu > div:not(:first-child) {
+		border-top: 1px solid #ccc;
+	}
+
+	#content {
+		padding: 1em;
+	}
+}
+
+@media screen and (min-width: 780px) {
+	/* desktop */
+	body {
+		background-position: center;
+	}
+
+	#diner {
+		display: none;
+	}
+
+	#navbar {
+		position: fixed;
+		width: 360px;
+		height: 100%
+	}
+
+	#header {
+		box-sizing: border-box;
+		text-align: center;
+	}
+
+	#header h1 {
+		margin: 0 1em;
+	}
+
+	#heading {
+		padding-top: 10em;
+		background: url(img/igor-150.jpg) no-repeat;
+		background-size: 9em 9em;
+		background-position: center top;
+	}
+
+	#menu > div {
+		border-top: 1px solid #ccc;
+	}
+
+	#content {
+		margin-left: 360px;
+		padding: 1em 4em;
+	}
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("img/igor.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: "Open Sans", Verdana, Helvetica, sans-serif;
+	font-weight: 500;
+	font-size: 12pt;
+	color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Source Serif Pro", serif;
+	font-weight: 600;
+}
+
+a {
+	color: #066;
+}
+
+.nowrap {
+	white-space: nowrap;
+}
+
+.symbol {
+	font-size: 14pt;
+}
+
+#navbar {
+	overflow: auto;
+	background: white;
+	z-index: 666;
+}
+
+#header {
+	background: white;
+	padding: 1em;
+}
+
+#header h1 {
+	font-family: "Open Sans";
+	font-size: 20pt;
+	font-weight: 500;
+}
+
+#menu {
+	overflow: auto;
+	text-align: center;
+}
+
+#menu > div {
+	margin: 0 1em;
+	padding: 1em 0;
+}
+
+#menu a {
+	text-decoration: none;
+	color: #333;
+}
+
+#menu ul,
+#menu li {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#menu li {
+	width: 100%;
+	font-variant-caps: all-small-caps;
+	font-size: 13pt;
+	font-weight: 700;
+	line-height: 200%;
+	color: #999;
+}
+
+#menu li img {
+	margin-right: .3em
+}
+
+#menu li a:hover {
+	color: #066;
+}
+
+#menu li a:active {
+	color: #000;
+}
+
+#menu li.collapsible ul li a {
+	color: #999;
+}
+
+#menu li.collapsible ul li a:hover {
+	color: #066;
+}
+
+#menu li.collapsible ul li a:active {
+	color: #666;
+}
+
+#menu li.collapsible span.arrow {
+	display: inline-block;
+	margin-left: .5em;
+	width: 13px;
+	height: 13px;
+	background: url("img/arrows.png") no-repeat;
+	background-position: 0 -13px;
+	cursor: pointer;
+}
+
+#menu li.collapsible.collapsed span.arrow {
+	background-position: 0 0px;
+}
+
+#menu li.collapsed ul {
+	display: none;
+}
+
+#contact {
+	font-size: 10pt;
+	padding-top: 2em !important;
+}
+
+#contact div {
+	padding-top: .5em;
+}
+
+#social-buttons {
+	padding-top: 2em !important;
+}
+
+#content {
+	box-sizing: border-box;
+	min-height: 100vh;
+	background: rgba(255, 255, 255, 0.85);
+}
+
+#content h1 {
+	margin-top: 0.3em;
+}
+
+#content > div:not(:first-child) {
+	margin: 1em 0;
+}
