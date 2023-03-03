@@ -23,12 +23,12 @@
 			</div>
 		</div>
 
-		<div id="menu" class="collapsed">
+		<div id="menu" class="expanded">
 			<div>
 				<ul>
 					<li><a href="">Igel gefunden?</a></li>
 
-					<li id="erste-hilfe" class="collapsible collapsed">
+					<li id="erste-hilfe" class="expandable">
 						<a href=""><span style="font-size: 16pt; color: red;">&#x271a;</span>&nbsp;Erste Hilfe</a>
 						<span class="arrow"></span>
 						<ul>
@@ -39,7 +39,7 @@
 
 					<li><a href="">Pflegestellen</a></li>
 
-					<li id="ueber-den-igel" class="collapsible collapsed">
+					<li id="ueber-den-igel" class="expandable">
 						<a href="">Über den Igel</a>
 						<span class="arrow"></span>
 						<ul>
@@ -105,9 +105,9 @@
 		show.addEventListener("change", function(e) {
 
 			if (e.target.checked)
-				menu.classList.remove("collapsed");
+				menu.classList.remove("expanded");
 			else
-				menu.classList.add("collapsed");
+				menu.classList.add("expanded");
 		});
 
 		arrows = document.getElementsByClassName("arrow");
@@ -118,10 +118,10 @@
 
 				li = e.target.parentNode;
 
-				if (li.classList.contains("collapsed"))
-					li.classList.remove("collapsed");
+				if (li.classList.contains("expanded"))
+					li.classList.remove("expanded");
 				else
-					li.classList.add("collapsed");
+					li.classList.add("expanded");
 			});
 		}
 	</script>

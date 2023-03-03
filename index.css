@@ -160,7 +160,7 @@
 		background: white;
 	}
 
-	#menu.collapsed {
+	#menu.expanded {
 		display: none;
 	}
 
@@ -306,34 +306,38 @@ a {
 	color: #000;
 }
 
-#menu li.collapsible ul li a {
+#menu li.expandable ul li a {
 	color: #999;
 }
 
-#menu li.collapsible ul li a:hover {
+#menu li.expandable ul li a:hover {
 	color: #066;
 }
 
-#menu li.collapsible ul li a:active {
+#menu li.expandable ul li a:active {
 	color: #666;
 }
 
-#menu li.collapsible span.arrow {
+#menu li.expandable span.arrow {
 	display: inline-block;
 	margin-left: .5em;
 	width: 13px;
 	height: 13px;
 	background: url("img/arrows.png") no-repeat;
-	background-position: 0 -13px;
+	background-position: 0 0px;
 	cursor: pointer;
 }
 
-#menu li.collapsible.collapsed span.arrow {
-	background-position: 0 0px;
+#menu li.expandable.expanded span.arrow {
+	background-position: 0 -13px;
 }
 
-#menu li.collapsed ul {
+#menu li ul {
 	display: none;
+}
+
+#menu li.expanded ul {
+	display: block;
 }
 
 #contact {
