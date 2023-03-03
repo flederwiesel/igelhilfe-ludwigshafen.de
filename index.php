@@ -38,9 +38,9 @@ default:
 		<div id="diner">
 			<input type="checkbox" id="showmenu" autocomplete="off">
 			<label for="showmenu" id="hamburger">
-				<span></span>
-				<span></span>
-				<span></span>
+				<span>&nbsp;</span>
+				<span>&nbsp;</span>
+				<span>&nbsp;</span>
 			</label>
 		</div>
 
@@ -57,7 +57,7 @@ default:
 
 					<li id="erste-hilfe" class="expandable <?php if ($expand == "erste-hilfe") { ?>expanded<?php } ?>">
 						<a href="?page=erste-hilfe"><span style="font-size: 16pt; color: red;">&#x271a;</span>&nbsp;Erste Hilfe</a>
-						<span class="arrow"></span>
+						<span class="arrow">&nbsp;</span>
 						<ul>
 							<li><a href="?page=igel-aufrollen">Igel aufrollen</a></li>
 							<li><a href="?page=fliegeneier-maden">Fliegeneier/-maden</a></li>
@@ -68,7 +68,7 @@ default:
 
 					<li id="ueber-den-igel" class="expandable <?php if ($expand == "gefahren") { ?>expanded<?php } ?>">
 						<a href="?page=igel">Über den Igel</a>
-						<span class="arrow"></span>
+						<span class="arrow">&nbsp;</span>
 						<ul>
 							<li><a href="?page=biologie">Biologie</a></li>
 							<li><a href="?page=ernaehrung">Ernährung</a></li>
