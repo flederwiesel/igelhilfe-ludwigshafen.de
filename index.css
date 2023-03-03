@@ -1,4 +1,32 @@
 @font-face {
+	font-family: "Noto Sans";
+	font-style: normal;
+	font-weight: 400;
+	src: url(fonts/NotoSans-400.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: "Noto Sans";
+	font-style: normal;
+	font-weight: 500;
+	src: url(fonts/NotoSans-500.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: "Noto Sans";
+	font-style: normal;
+	font-weight: 600;
+	src: url(fonts/NotoSans-600.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: "Noto Sans";
+	font-style: normal;
+	font-weight: 700;
+	src: url(fonts/NotoSans-700.ttf) format("truetype");
+}
+
+@font-face {
 	font-family: "Open Sans";
 	font-style: normal;
 	font-weight: 400;
@@ -259,7 +287,8 @@ a {
 #menu li {
 	width: 100%;
 	font-variant-caps: all-small-caps;
-	font-size: 13pt;
+	font-family: "Noto Sans";
+	font-size: 14pt;
 	font-weight: 700;
 	line-height: 200%;
 	color: #999;
