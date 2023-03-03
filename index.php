@@ -77,7 +77,7 @@ default:
 						</ul>
 					</li>
 
-					<li><a href="?page=wir">Über uns</li>
+					<li><a href="?page=wir">Über uns</a></li>
 					<li><a href="?page=spenden"><span style="color: red;">&#x2764;&#xfe0f;</span>&nbsp;Spenden</a></li>
 				</ul>
 			</div>
