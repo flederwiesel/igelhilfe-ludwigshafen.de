@@ -1,3 +1,26 @@
+<?php
+$dir = dirname(__FILE__);
+
+if (isset($_GET["page"]))
+	$page = preg_replace("/^.*\//", "", $_GET["page"]);
+else
+	$page = "start";
+
+switch ($page)
+{
+case "igel-aufrollen":
+case "fliegeneier-maden":
+	$expand = "erste-hilfe";
+	break;
+
+case "biologie":
+case "ernaehrung":
+case "gefahren":
+case "auswilderung":
+	$expand = "gefahren";
+	break;
+}
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -26,39 +49,39 @@
 		<div id="menu" class="expanded">
 			<div>
 				<ul>
-					<li><a href="">Igel gefunden?</a></li>
+					<li><a href="?">Igel gefunden?</a></li>
 
-					<li id="erste-hilfe" class="expandable">
-						<a href=""><span style="font-size: 16pt; color: red;">&#x271a;</span>&nbsp;Erste Hilfe</a>
+					<li id="erste-hilfe" class="expandable <?php if ($expand == "erste-hilfe") { ?>expanded<?php } ?>">
+						<a href="?page=erste-hilfe"><span style="font-size: 16pt; color: red;">&#x271a;</span>&nbsp;Erste Hilfe</a>
 						<span class="arrow"></span>
 						<ul>
-							<li><a href="">Igel aufrollen</a></li>
-							<li><a href="">Fliegeneier/-maden</a></li>
+							<li><a href="?page=igel-aufrollen">Igel aufrollen</a></li>
+							<li><a href="?page=fliegeneier-maden">Fliegeneier/-maden</a></li>
 						</ul>
 					</li>
 
-					<li><a href="">Pflegestellen</a></li>
+					<li><a href="?page=pflegestellen">Pflegestellen</a></li>
 
-					<li id="ueber-den-igel" class="expandable">
-						<a href="">Über den Igel</a>
+					<li id="ueber-den-igel" class="expandable <?php if ($expand == "gefahren") { ?>expanded<?php } ?>">
+						<a href="?page=igel">Über den Igel</a>
 						<span class="arrow"></span>
 						<ul>
-							<li><a href="">Biologie</a></li>
-							<li><a href="">Ernährung</a></li>
-							<li><a href="">Gefahren</a></li>
-							<li><a href="">Auswilderung</a></li>
+							<li><a href="?page=biologie">Biologie</a></li>
+							<li><a href="?page=ernaehrung">Ernährung</a></li>
+							<li><a href="?page=gefahren">Gefahren</a></li>
+							<li><a href="?page=auswilderung">Auswilderung</a></li>
 						</ul>
 					</li>
 
-					<li><a href="">Über uns</li>
-					<li><a href=""><span style="color: red;">&#x2764;&#xfe0f;</span>&nbsp;Spenden</a></li>
+					<li><a href="?page=wir">Über uns</li>
+					<li><a href="?page=spenden"><span style="color: red;">&#x2764;&#xfe0f;</span>&nbsp;Spenden</a></li>
 				</ul>
 			</div>
 
 			<div>
 				<ul>
-					<li><a href="">Datenschutz</a></li>
-					<li><a href="">Impressum</a></li>
+					<li><a href="?page=datenschutz">Datenschutz</a></li>
+					<li><a href="?page=impressum">Impressum</a></li>
 				</ul>
 			</div>
 
@@ -86,16 +109,10 @@
 	</div>
 
 	<div id="content">
-		<h1>Igel gefunden?</h1>
-
-		<div style="color: red; font-size: 16pt;">Notfallnummer für Igelfunde: <span class="nowrap">+49 176 5386 9871</span></div>
-		<div style="font-weight: 700;">Da wir die Igelstation ausschließlich ehrenamtlich betreiben, sind wir nicht immer sofort erreichbar. In diesem Falle bitte eine Nachricht hinterlassen. In dringenden Fällen, die Sofortmaßnahmen erfordern, bitte eine Igelstation / Pflegestelle über unsere Pflegestellen-Links suchen und in der Zwischenzeit unsere Ratschläge zur Ersten Hilfe zu Rate ziehen.</div>
-
-		<h2>Was ist bei Igelfunden zu beachten?</h2>
-		<div>Nach § 44 Bundesnaturschutzgesetz darf ein Igel als Vertreter einer besonders geschützten Art nicht aus der Natur entnommen werden. Ausnahme bilden nach § 45 ebd. kranke, verletzte oder hilflose Tiere.</div>
-
-		<h2>Wann ist ein Igel hilflos?</h2>
-		<div>Nicht alle Fundigel benötigen Hilfe. Bitte die Checkliste durchgehen um festzustellen, ob es sich wirklich um einen Notfall handelt!</div>
+	<?php
+		if (is_file("$dir/$page.php"))
+			include("$dir/$page.php");
+	?>
 	</div>
 
 	<script>
