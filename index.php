@@ -19,6 +19,10 @@ case "gefahren":
 case "auswilderung":
 	$expand = "gefahren";
 	break;
+
+default:
+	$expand = NULL;
+	break;
 }
 ?>
 <!DOCTYPE html>
