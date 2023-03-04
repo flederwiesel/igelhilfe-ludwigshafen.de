@@ -84,6 +84,7 @@ default:
 
 			<div>
 				<ul>
+					<li><a href="?page=anreise-parken">Anfahrt / Parken</a></li>
 					<li><a href="?page=datenschutz">Datenschutz</a></li>
 					<li><a href="?page=impressum">Impressum</a></li>
 				</ul>
@@ -95,7 +96,7 @@ default:
 
 				<div id="social-buttons">
 					<a href="https://www.facebook.com/IgelhilfeLudwigshafen" rel="@IgelhilfeLudwigshafen">
-						<img title="Facebook" alt="Facebook Button" src="img/social/f_logo_RGB-Blue_24x24.png" class="" width="24" height="24">
+						<img title="Facebook" alt="Facebook Button" src="img/social/f_logo_RGB-Blue_24x24.png" width="24" height="24">
 					</a>
 					<a href="https://fb.com/msg/IgelhilfeLudwigshafen" rel="@IgelhilfeLudwigshafen">
 						<img title="Facebook Messenger" alt="Facebook Messenger" src="img/social/fbmsg-24x24.png" width="24" height="24">

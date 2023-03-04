@@ -237,8 +237,54 @@ a {
 	color: #066;
 }
 
+dt {
+	font-size: 14pt;
+	font-weight: 600;
+}
+
+dd {
+	margin: 1em;
+}
+
+figure {
+	text-align: center;
+	margin: 2em 0;
+}
+
+figcaption,
+figcaption ~ label {
+	width: 80%;
+	margin: auto;
+	text-align: left;
+}
+
 .nowrap {
 	white-space: nowrap;
+}
+
+.veil {
+	display: block;
+	margin-top: 1em;
+	white-space: nowrap;
+	font-size: 10pt;
+}
+
+.veil input ~ div img {
+	filter: blur(1em);
+}
+
+.veil input:checked ~ div img {
+	filter: blur(0);
+}
+
+.veil div.clip {
+	overflow: hidden;
+}
+
+.veil img {
+	width: 100%;
+	height: auto;
+	vertical-align: middle;
 }
 
 .symbol {
@@ -320,6 +366,7 @@ a {
 
 #menu li.expandable span.arrow {
 	display: inline-block;
+	vertical-align: middle;
 	margin-left: .5em;
 	width: 13px;
 	height: 13px;
