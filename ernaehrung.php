@@ -4,10 +4,10 @@
  Seine Hauptkost besteht aus Laufkäfern, Käfer- und
 Schmetterlingslarven, Regenwürmern. Auch Schnecken, Spinnen, sowie
 Hundert- und Tausendfüßler stehen auf seinem Speiseplan. Der Verzehr von
-Obst &ndash; insbesondere Äpfel &ndash; gehört in das Reich der Märchen, auch sich
+Obst – insbesondere Äpfel – gehört in das Reich der Märchen, auch sich
 das noch immer nicht bei den Herstellern von industriellem Igelfutter
 herumgesprochen hat… Es kommt allerdings häufig vor, dass Igel an
-Fallobst gesichtet werden &ndash; dies allerdings nur wegen der Würmer.</p>
+Fallobst gesichtet werden – dies allerdings nur wegen der Würmer.</p>
 
 <p>Ersatzweise können Igel mit Katzenfutter (nass und trocken)
 gefüttert werden, wobei hier ein Fleischanteil von &gt; 60% sowie ein

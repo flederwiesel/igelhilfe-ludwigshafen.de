@@ -23,7 +23,7 @@ Video tag vom Browser nicht unterstützt.
 
 <p>Fliegeneier werden auch gerne in Mund, Nase, Ohren und sogar Augen abgelegt.
 Die geschlüpften Maden halten sich ebenso gerne dort auf, kriechen aber auch in
-andere Körperöffnungen &ndash; offene Wunden, aber auch After und die äußeren
+andere Körperöffnungen – offene Wunden, aber auch After und die äußeren
 Geschlechtsorgane.</p>
 
 <p>Wir bedanken uns für die Erlaubnis zur Veröffentlichung dieses Videos recht

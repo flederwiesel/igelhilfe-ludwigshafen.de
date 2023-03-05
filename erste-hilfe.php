@@ -1,4 +1,4 @@
-<h1><span style="font-size: 20pt; color: red;">&#x271a;</span> Erste Hilfe</h1>
+<h1><span style="font-size: 20pt; color: red;">✚</span> Erste Hilfe</h1>
 
 <p>Leider können wir nicht immer alle Anrufe sofort beantworten oder jeden Igel aufnehmen. Wir sind komplett ehrenamtlich tätig und unsere Ressourcen begrenzt. Während unserer Arbeitszeit sind wir oft nicht erreichbar und wir haben nicht immer die Zeit, Fundigel weiterzuvermitteln. Auch wenn die Igelstation voll ist, müssen wir Grenzen ziehen.</p>
 

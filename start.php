@@ -2,7 +2,7 @@
 <h1>Igel gefunden?</h1>
 
 <p style="color: red; font-size: 16pt;">Notfallnummer für Igelfunde: <span class="nowrap">+49 176 5386 9871</span></p>
-<p style="font-weight: 700;">Da wir die Igelstation ausschließlich ehrenamtlich betreiben, sind wir nicht immer sofort erreichbar. In diesem Falle bitte eine Nachricht hinterlassen. In dringenden Fällen, die Sofortmaßnahmen erfordern, bitte eine Igelstation / Pflegestelle über unsere <a href="pflegestellen.php">Pflegestellen-Links</a> suchen und in der Zwischenzeit unsere Ratschläge zur <a href="erste-hilfe.php"><span style="color: red;">&#x271a;</span>&nbsp;Ersten Hilfe</a> zu Rate ziehen.</p>
+<p style="font-weight: 700;">Da wir die Igelstation ausschließlich ehrenamtlich betreiben, sind wir nicht immer sofort erreichbar. In diesem Falle bitte eine Nachricht hinterlassen. In dringenden Fällen, die Sofortmaßnahmen erfordern, bitte eine Igelstation / Pflegestelle über unsere <a href="pflegestellen.php">Pflegestellen-Links</a> suchen und in der Zwischenzeit unsere Ratschläge zur <a href="erste-hilfe.php"><span style="color: red;">✚</span>&nbsp;Ersten Hilfe</a> zu Rate ziehen.</p>
 
 <h2>Was ist bei Igelfunden zu beachten?</h2>
 <p>

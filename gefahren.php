@@ -5,21 +5,21 @@
 <p>Leider hat sich inzwischen aber der Mensch zum größten Feind
 entwickelt. Sei es durch die Zerschneidung und Verringerung von
 verfügbaren natürlichen oder naturnahen Landflächen, lebensfeindlichen
-Umgebungen (&bdquo;Steingärten&rdquo;) und nicht zuletzt durch den Straßenverkehr.</p>
+Umgebungen („Steingärten”) und nicht zuletzt durch den Straßenverkehr.</p>
 
 <p>Viele Gefahren lauern aber auch in Gärten, wenn diese nicht
-&bdquo;igelsicher&rdquo; sind: Kellerschächte können zu Todesfallen werden, wenn
+„igelsicher” sind: Kellerschächte können zu Todesfallen werden, wenn
 kein geeigneter Ausstieg vorhanden ist, ebenso Gartenteiche.</p>
 
 <p>Auch freilaufende Hunde können Igel stark verletzen, obwohl sie vielleicht
-&bdquo;nur spielen&rdquo; möchten.</p>
+„nur spielen” möchten.</p>
 
 <p>Die größte Gefahr stellen mittlerweile allerdings elektrische
 Gartengeräte dar. Mähroboter, Fadenschneider u.ä. können bodenlebende
 Tiere (nicht nur Igel!) bei unsachgemäßem Umgang schwer verletzen oder
 töten. Selbst Tiere mit nicht lebensbedrohlichen Verletzungen können
-aufgrund von Fliegenmaden &ndash; die sich innerhalb kürzester Zeit auf
-verletzten Tieren ansiedeln &ndash; schwer geschädigt werden, bis hin zum
+aufgrund von Fliegenmaden – die sich innerhalb kürzester Zeit auf
+verletzten Tieren ansiedeln – schwer geschädigt werden, bis hin zum
 kompletten Organversagen.</p>
 
 <p>Auch wir haben bereits live erleben dürfen, wie solche Verletzungen aussehen:
@@ -79,7 +79,7 @@ kompletten Organversagen.</p>
 <p>Da oftmals die Ursache darin liegt, dass aufgrund der
 Nachtaktivität viele Menschen sich des Vorhandenseins von Igeln gar
 nicht bewusst sind, bitten wir dringend darum, den Igel mit
-Informationskampagnen zu unterstützen &ndash; egal ob im privaten Umfeld oder
+Informationskampagnen zu unterstützen – egal ob im privaten Umfeld oder
 im Dialog mit Baumärkten, Herstellern von Gartengeräten,
 Landschaftsgärtnereien oder Grünflächenämtern. Der Igel braucht hier
 alle Aufmerksamkeit, die er bekommen kann.</p>

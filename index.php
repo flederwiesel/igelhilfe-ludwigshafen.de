@@ -74,7 +74,7 @@ default:
 					<li><a href="?">Igel gefunden?</a></li>
 
 					<li id="erste-hilfe" class="expandable <?php if ($expand == "erste-hilfe") { ?>expanded<?php } ?>">
-						<a href="?page=erste-hilfe"><span style="font-size: 16pt; color: red;">&#x271a;</span>&nbsp;Erste Hilfe</a>
+						<a href="?page=erste-hilfe"><span style="font-size: 16pt; color: red;">✚</span>&nbsp;Erste Hilfe</a>
 						<span class="arrow">&nbsp;</span>
 						<ul>
 							<li><a href="?page=igel-aufrollen">Igel aufrollen</a></li>
@@ -96,7 +96,7 @@ default:
 					</li>
 
 					<li><a href="?page=wir">Über uns</a></li>
-					<li><a href="?page=spenden"><span style="color: red;">&#x2764;&#xfe0f;</span>&nbsp;Spenden</a></li>
+					<li><a href="?page=spenden"><span style="color: red;">❤️</span>&nbsp;Spenden</a></li>
 				</ul>
 			</div>
 
@@ -109,8 +109,8 @@ default:
 			</div>
 
 			<div id="contact">
-				<div style="font-size: 12pt;"><span class="symbol">&#x1F4DE;&#xfe0e;</span><span class="nowrap">+49 176 5386 9871</span></div>
-				<div style="font-size: 9pt;"><span class="symbol">&#x2709;</span>&nbsp;<a href="mailto:info@igelhilfe-ludwigshafen.de">info@igelhilfe-ludwigshafen.de</a></div>
+				<div style="font-size: 12pt;"><span class="symbol">📞︎</span><span class="nowrap">+49 176 5386 9871</span></div>
+				<div style="font-size: 9pt;"><span class="symbol">✉</span>&nbsp;<a href="mailto:info@igelhilfe-ludwigshafen.de">info@igelhilfe-ludwigshafen.de</a></div>
 
 				<div id="social-buttons">
 					<a href="https://www.facebook.com/IgelhilfeLudwigshafen" rel="@IgelhilfeLudwigshafen">

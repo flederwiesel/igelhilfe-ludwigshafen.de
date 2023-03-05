@@ -1,4 +1,4 @@
-<h1>&#x2764;&#xfe0f; Spenden</h1>
+<h1>❤️ Spenden</h1>
 
 <p>Tierschutz ist immer eine finanziell intensive Angelegenheit. Das ist bei uns nicht anders.</p>
 
