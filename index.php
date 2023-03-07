@@ -2,8 +2,10 @@
 $dir = dirname(__FILE__);
 
 if (isset($_GET["page"]))
-	$page = preg_replace("/^.*\//", "", $_GET["page"]);
-else
+	if ($_GET["page"])
+		$page = preg_replace("/^.*\//", "", $_GET["page"]);
+
+if (!isset($page))
 	$page = "start";
 
 switch ($page)
@@ -133,6 +135,9 @@ default:
 
 	<div id="content">
 	<?php
+		if (!is_file("$dir/$page.php"))
+			$page = "start";
+
 		if (is_file("$dir/$page.php"))
 			include("$dir/$page.php");
 	?>
