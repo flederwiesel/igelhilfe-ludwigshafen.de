@@ -33,6 +33,8 @@ default:
 	<meta charset="UTF-8">
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<meta name="google-site-verification" content="VZDQWIFWf9WF5wDf76nll6pCgyQ9OL5pheGBdIyLcgQ"/>
+	<meta name="msvalidate.01" content="F47427578188AA19188E38D94756CE8E"/>
 	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:standard, max-video-preview:0">
 	<meta name="description" content="Igelstation und gemeinnütziger Verein. Notfallnummer für verletzte, kranke und hilflose Igel: +49 176 5386 9871.">
 	<meta name="keywords" content="igel, igelhilfe, igelstation, krank, verletzt, hilflos, ludwigshafen">
