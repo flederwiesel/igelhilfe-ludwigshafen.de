@@ -1,0 +1,29 @@
+# Prevent viewing of .htaccess file
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+# Prevent directory listings
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+# This checks to make sure the connection is not already HTTPS
+RewriteCond %{HTTPS} !=on
+# This rule will redirect users from their original location
+# to the same location but using HTTPS.
+RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+RewriteCond %{HTTP_HOST} igelhilfe-ludwigshafen.(de|net|org) [NC]
+# Only if QUERY_STRING is empty
+RewriteCond %{QUERY_STRING} ^$
+# Only if single path component, i.e. no slash in %{REQUEST_URI}
+RewriteCond %{REQUEST_URI} !.+/.+
+# Leave directories alone
+RewriteCond %{DOCUMENT_ROOT}/%{REQUEST_URI} !-d
+# Leave files alone
+RewriteCond %{DOCUMENT_ROOT}/%{REQUEST_URI} !-f
+# foo -> ?page=foo
+RewriteRule (.+) ?page=$1 [L]
+</IfModule>
