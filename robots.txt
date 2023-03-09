@@ -1,0 +1,15 @@
+Sitemap: https://igelhilfe-ludwigshafen.de/sitemap.xml
+
+User-agent: ia_archiver
+Allow: /
+Disallow:
+
+User-agent: googlebot-image
+Disallow: /
+
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /img/
+Disallow: /media/
+Disallow: /nextcloud/

@@ -50,6 +50,7 @@ default:
 	<meta property="fb:app_id" content="@IgelhilfeLudwigshafen">
 	<meta name="theme-color" content="#066">
 	<title>Igelhilfe Ludwigshafen</title>
+	<link rel="sitemap" type="application/xml" title="Sitemap" href="https://igelhilfe-ludwigshafen.de/sitemap.xml">
 	<link rel="canonical" href="https://igelhilfe-ludwigshafen.de/">
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<!-- third-generation iPad with high-resolution Retina display: -->
