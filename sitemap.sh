@@ -31,7 +31,7 @@ do
 	cat <<EOF
 		<url>
 			<loc>https://igelhilfe-ludwigshafen.de/?page=${file%.*}</loc>
-			<lastmod>$(git log -1 --no-show-signature  --pretty=format:%cd "$file")</lastmod>
+			<lastmod>$(git log -1 --no-show-signature  --pretty=format:%cd --date=iso8601-strict "$file")</lastmod>
 			<priority>${prio[${file%.*}]}</priority>
 		</url>
 EOF
