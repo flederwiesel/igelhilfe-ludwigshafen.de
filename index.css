@@ -135,21 +135,22 @@
 
 	#header {
 		display: table;
-	}
-
-	#header h1 {
-		margin: 0;
-	}
-
-	#heading {
-		display: table-cell;
-		vertical-align: middle;
-		height: 4em;
+		height: 80px;
+		margin: 1em;
 		padding-left: 6em;
 		padding-right: 3em;
 		background: url(img/igor-150.jpg) no-repeat;
-		background-size: 5em 5em;
+		background-size: 80px 80px;
 		background-position: left center;
+		vertical-align: middle;
+	}
+
+	#header .title {
+		display: table-cell;
+		margin: 0;
+		font-family: "Open Sans";
+		font-size: 20pt;
+		font-weight: 500;
 	}
 
 	#menu {
@@ -191,18 +192,19 @@
 
 	#header {
 		box-sizing: border-box;
+		margin: 1em;
+		padding: 150px 1em 0 1em;
+		background: url(img/igor-150.jpg) no-repeat;
+		background-size: 150px 150px;
+		background-position: center top;
 		text-align: center;
 	}
 
-	#header h1 {
-		margin: 0 1em;
-	}
-
-	#heading {
-		padding-top: 10em;
-		background: url(img/igor-150.jpg) no-repeat;
-		background-size: 9em 9em;
-		background-position: center top;
+	#header .title {
+		margin: 0.5em 1em 0 1em;
+		font-family: "Open Sans";
+		font-size: 20pt;
+		font-weight: 500;
 	}
 
 	#menu > div {
@@ -295,17 +297,6 @@ figcaption ~ label {
 	overflow: auto;
 	background: white;
 	z-index: 666;
-}
-
-#header {
-	background: white;
-	padding: 1em;
-}
-
-#header h1 {
-	font-family: "Open Sans";
-	font-size: 20pt;
-	font-weight: 500;
 }
 
 #menu {

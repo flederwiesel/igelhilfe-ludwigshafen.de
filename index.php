@@ -81,9 +81,7 @@ default:
 		</div>
 
 		<div id="header">
-			<div id="heading">
-				<h1>Igelhilfe Ludwigshafen</h1>
-			</div>
+			<div class="title">Igelhilfe Ludwigshafen</div>
 		</div>
 
 		<div id="menu" class="expanded">
