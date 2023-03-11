@@ -14,6 +14,7 @@ RewriteCond %{HTTPS} !=on
 # This rule will redirect users from their original location
 # to the same location but using HTTPS.
 RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+RewriteRule ^wp/?$ / [R=301,L]
 
 RewriteCond %{HTTP_HOST} igelhilfe-ludwigshafen.(de|net|org) [NC]
 # Only if QUERY_STRING is empty
