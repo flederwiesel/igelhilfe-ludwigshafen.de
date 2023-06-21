@@ -17,7 +17,7 @@ geo:49.5058844,8.3856931
 darauf hinweisen, dass sich unsere Igelstation in einer Sackgasse (und überdies
 Privatstraße) befindet, in der Parken sowie längeres Halten nicht erwünscht ist.</p>
 
-<p>Wir bitten daher darum, sich einen öfentlichen Parkplatz außerhalb der Sackgasse
+<p>Wir bitten daher darum, sich einen öffentlichen Parkplatz außerhalb der Sackgasse
 zu suchen. Die nächstliegenden sind im Bild gekennzeichnet:</p>
 
 <p><img style="max-width: 100%; height: auto;" alt="Parkplätze" title="Parkplätze" src="media/Parken.jpg" width="1194" height="841"></p>
