@@ -14,7 +14,7 @@
 
 <p>Nicht alle Fundigel benötigen Hilfe. Bitte die Checkliste durchgehen um festzustellen, ob es sich wirklich um einen Notfall handelt!</p>
 
-<p>Ist eine der folgenden Bedigungen gegeben, ist der Igel als hilfsbedürftig anzusehen.
+<p>Ist eine der folgenden Bedingungen gegeben, ist der Igel als hilfsbedürftig anzusehen.
 	<ul>
 		<li>Igel ist verletzt!</li>
 		<li>Igel ist kälter als handwarm → Bereits auf dem Transport zur Igelstation aufwärmen (Wärmekissen <span style="font-style: italic">handwarm</span>), eine Behandlung kann erst bei Erreichen der normalen Körpertemperatur von 36°C erfolgen!</li>
