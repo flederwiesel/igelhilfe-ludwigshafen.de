@@ -10,7 +10,7 @@ Sehr umfangreiche Informationen rund um das Thema Igel gibt es beim Verein
 zu finden, ebenso Informationen zu den Themen <a href="https://www.pro-igel.de/spezialthemen/">
 Igelpflege, Igelfutter oder Igelfreundlicher Garten</a>.</p>
 
-<p>Deshalb wollen wir an dieser Stelle nur das allerwichtigste kurz zusammenfasssen:
+<p>Deshalb wollen wir an dieser Stelle nur das allerwichtigste kurz zusammenfassen:
 	<ul>
 		<li><a href="?page=ernaehrung">Ernährung</a></li>
 		<li><a href="?page=biologie">Biologie</a></li>

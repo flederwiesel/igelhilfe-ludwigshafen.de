@@ -1,7 +1,7 @@
 <h1>Fliegeneier und -maden entfernen</h1>
 
 <p>Fliegen vermehren sich, indem sie Eier auf verletzten, schwachen oder toten
-Tieren ablegen, welche dann als Nahrungsquelle für die frisch geschlüften
+Tieren ablegen, welche dann als Nahrungsquelle für die frisch geschlüpften
 Fliegenmaden dienen. Je nach Witterung schlüpfen die Maden unterschiedlich
 schnell, im Hochsommer kann dies bereits nach nur 24 Stunden geschehen.</p>
 

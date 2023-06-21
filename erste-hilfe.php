@@ -35,12 +35,12 @@
 <dd>Bei der Aufnahme des Igels spielt die Futtersorte nicht die größte Rolle, bei längerfristiger Pflege muss allerdings auf eine artgerechte und ausgewogene Ernährung geachtet werden.</dd>
 
 <dt>Kein Flohpulver, -spray oder Spot-On für Haustiere gegen Flöhe benutzen!!</dt>
-<dd>Die für Hunde, Katzen und andere Haustiere gängigen Anti-Flohmittel wirken auf den Igel anders, und müssten derart verdünnt angewendet werden, dass es häufig zu Überdosierungen kommt. Es gibt sehr wirksame und für den Igel gut verträgliche Mittel, die bei der Igelstation erfragt werden können..</dd>
+<dd>Die für Hunde, Katzen und andere Haustiere gängigen Anti-Flohmittel wirken auf den Igel anders, und müssten derart verdünnt angewendet werden, dass es häufig zu Überdosierungen kommt. Es gibt sehr wirksame und für den Igel gut verträgliche Mittel, die bei der Igelstation erfragt werden können.</dd>
 
 <dt>Igel an ruhigem Ort im Warmen (!!) mit Tageslicht unterbringen.</dt>
 <dd>
 	<div>Obwohl der Igel ein dämmerungs- und nachtaktives Tier Ist, benötigt er den Wechsel von Tag und Nacht für seinen Biorhythmus. Deshalb soll er so untergebracht werden, dass er zumindest so viel Tageslicht bekommt, dass er den Unterschied zwischen Tag und Nacht mitbekommt.</div>
-	<div>Kranke Igel sind oft tagaktiv, hier ist es wichtig, dass er nach Behandlung seine innere Uhr wieder „synchronisieren" kann. Dass ein krankes Tier an einem ruhigem Ort untergebracht werden soll, versteht sich eigentlich von selbst. Häufiges Erschrecken und Zusammenrollen verursacht Stress, der bei der Genesung alles andere als hilfreich ist.</div>
+	<div>Kranke Igel sind oft tagaktiv, hier ist es wichtig, dass er nach Behandlung seine innere Uhr wieder „synchronisieren" kann. Dass ein krankes Tier an einem ruhigen Ort untergebracht werden soll, versteht sich eigentlich von selbst. Häufiges Erschrecken und Zusammenrollen verursacht Stress, der bei der Genesung alles andere als hilfreich ist.</div>
 </dd>
 
 <dt>Keine Einstreu, stattdessen Zeitungspapier als Unterlage benutzen.</dt>
