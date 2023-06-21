@@ -3,6 +3,7 @@
 rsync -av . igelhilfe@igelhilfe-ludwigshafen.de:httpdocs/ \
 --chmod=Dug=rwx,Do=rx,Fug=rw,Fo=r \
 --exclude=.git \
+--exclude=.venv \
 --exclude=~* \
 --exclude=*~ \
 --exclude=*.sh \
