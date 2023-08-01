@@ -106,5 +106,5 @@ ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von
  Werbeinformationen, etwa durch Spam-Mails, vor.</p>
 
 <p style="margin-top: 3em; font-size: 8pt;">Impressum erstellt durch
-<a href="impressum-generator.de" rel="external" target="_blank">impressum-generator.de</a>
+<a href="https://impressum-generator.de" rel="external" target="_blank">impressum-generator.de</a>
 der Kanzlei Hasselbach.</p>
