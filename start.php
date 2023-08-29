@@ -10,7 +10,7 @@
 	Nach § 44 Bundes&shy;naturschutz&shy;gesetz darf ein Igel als Vertreter einer besonders geschützten Art nicht aus der Natur entnommen werden. Ausnahme bilden nach § 45 ebd. kranke, verletzte oder hilflose Tiere.
 </p>
 
-<h2>Wann ist ein Igel hilflos?</h2>
+<h2><a id="hilflos"></a>Wann ist ein Igel hilflos?</h2>
 
 <p>Nicht alle Fundigel benötigen Hilfe. Bitte die Checkliste durchgehen um festzustellen, ob es sich wirklich um einen Notfall handelt!</p>
 
@@ -29,7 +29,7 @@
 Ansonsten kommt das Tier vermutlich allein zurecht und muss an Ort und Stelle verbleiben.
 </p>
 
-<h2>Welche Informationen benötigt die Igelstation?</h2>
+<h2><a id="infos"></a>Welche Informationen benötigt die Igelstation?</h2>
 
 <p>Um die Situation des Tieres beurteilen und ggf. adäquate Maßnahmen bereits vor der Aufnahme ergreifen zu können, benötigt die Igelstation wichtige Daten zur Fundsituation und Zustand des Igels:
 	<ul>

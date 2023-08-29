@@ -6,7 +6,7 @@
 
 <p>Diese Anleitung kann nur als grober Leitfaden dienen. Nicht jeder Fall Ist gleich, im Einzelfall muss eventuell anders gehandelt werden! Schwerverletzte und extrem geschwächte Tiere gehören in professionelle Obhut, sobald Hilfe verfügbar ist!</p>
 
-<h2>Was tun bei verletzten und kranken Igeln?</h2>
+<h2><a id="list"></a>Was tun bei verletzten und kranken Igeln?</h2>
 
 <p>
 <dt>Igel wärmen, wenn das Tier kälter als handwarm ist</dt>
