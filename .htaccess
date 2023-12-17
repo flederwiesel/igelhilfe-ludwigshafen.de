@@ -17,6 +17,8 @@ RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 RewriteRule ^wp/?$ / [R=301,L]
 
 RewriteCond %{HTTP_HOST} igelhilfe-ludwigshafen.(de|net|org) [NC]
+# Rewrite ugly urls from flyer...
+RewriteRule proigel/(.*) pro-igel.de/$1 [L]
 # Only if QUERY_STRING is empty
 RewriteCond %{QUERY_STRING} ^$
 # Only if single path component, i.e. no slash in %{REQUEST_URI}
