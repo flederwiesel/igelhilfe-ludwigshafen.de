@@ -118,31 +118,9 @@ default:
 
 			<div>
 				<ul>
-					<li><a href="?page=anreise-parken">Anfahrt / Parken</a></li>
 					<li><a href="?page=datenschutz">Datenschutz</a></li>
 					<li><a href="?page=impressum">Impressum</a></li>
 				</ul>
-			</div>
-
-			<div id="contact">
-				<div style="font-size: 12pt;"><span class="symbol">📞︎</span><span class="nowrap">+49 176 5386 9871</span></div>
-				<div style="font-size: 9pt;"><span class="symbol">✉</span>&nbsp;<a href="mailto:info@igelhilfe-ludwigshafen.de">info@igelhilfe-ludwigshafen.de</a></div>
-
-				<div id="social-buttons">
-					<a href="https://www.facebook.com/IgelhilfeLudwigshafen" rel="@IgelhilfeLudwigshafen">
-						<img title="Facebook" alt="Facebook Button" src="img/social/f_logo_RGB-Blue_24x24.png" width="24" height="24">
-					</a>
-					<a href="https://fb.com/msg/IgelhilfeLudwigshafen" rel="@IgelhilfeLudwigshafen">
-						<img title="Facebook Messenger" alt="Facebook Messenger" src="img/social/fbmsg-24x24.png" width="24" height="24">
-					</a>
-					<a href="https://telegram.me/IgelhilfeLudwigshafen" rel="@IgelhilfeLudwigshafen">
-						<img title="Telegram Messenger" alt="Telegram Messenger" src="img/social/telegram-24x24.png" width="24" height="24">
-					</a>
-					<img title="Signal Messenger" alt="Signal Messenger" src="img/social/signal-24x24.png" width="24" height="24">
-					<a href="https://api.whatsapp.com/send?phone=+4917653869871" rel="@IgelhilfeLudwigshafen">
-						<img title="WhatsApp Messenger" alt="WhatsApp Messenger" src="img/social/WhatsApp_Logo_24x24.png" width="24" height="24">
-					</a>
-				</div>
 			</div>
 		</div>
 	</div>
