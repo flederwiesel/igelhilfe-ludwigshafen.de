@@ -1,8 +1,6 @@
 <h1><span style="font-size: 20pt; color: red;">✚</span> Erste Hilfe</h1>
 
-<p>Leider können wir nicht immer alle Anrufe sofort beantworten oder jeden Igel aufnehmen. Wir sind komplett ehrenamtlich tätig und unsere Ressourcen begrenzt. Während unserer Arbeitszeit sind wir oft nicht erreichbar und wir haben nicht immer die Zeit, Fundigel weiterzuvermitteln. Auch wenn die Igelstation voll ist, müssen wir Grenzen ziehen.</p>
-
-<p>Deshalb sind wir im Extremfall darauf angewiesen, dass die Erstversorgung auch einmal vom Finder vorgenommen wird, bis sich professionelle Hilfe findet. Diese Schnellanleitung soll dabei helfen, dem Igel so schnell wie möglich eine grundlegende, richtige Versorgung auch vom Laien zu gewährleisten.</p>
+<p>Sollte beim Auffinden eines kranken oder verletzten Igels gerade keine Wildtierstation oder kundiger Tierarzt verfügbar sein, ist es wichtig, dass die Erstversorgung zunächst vom Finder vorgenommen wird, bis sich professionelle Hilfe findet. Diese Schnellanleitung soll dabei helfen, dem Igel so schnell wie möglich eine grundlegende, richtige Versorgung auch vom Laien zu gewährleisten.</p>
 
 <p>Diese Anleitung kann nur als grober Leitfaden dienen. Nicht jeder Fall Ist gleich, im Einzelfall muss eventuell anders gehandelt werden! Schwerverletzte und extrem geschwächte Tiere gehören in professionelle Obhut, sobald Hilfe verfügbar ist!</p>
 

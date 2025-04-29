@@ -18,7 +18,6 @@ case "fliegeneier-maden":
 case "biologie":
 case "ernaehrung":
 case "gefahren":
-case "auswilderung":
 	$expand = "gefahren";
 	break;
 
@@ -36,20 +35,18 @@ default:
 	<meta name="google-site-verification" content="VZDQWIFWf9WF5wDf76nll6pCgyQ9OL5pheGBdIyLcgQ"/>
 	<meta name="msvalidate.01" content="F47427578188AA19188E38D94756CE8E"/>
 	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:standard, max-video-preview:0">
-	<meta name="description" content="Igelstation und gemeinnütziger Verein. Notfallnummer für verletzte, kranke und hilflose Igel: +49 176 5386 9871.">
+	<meta name="description" content="Der Verein „Igelhilfe Ludwigshafen” wurde aufgelöst, die Igelstation geschlossen.">
 	<meta name="keywords" content="igel, igelhilfe, igelstation, krank, verletzt, hilflos, ludwigshafen">
 	<meta property="og:type" content="website">
 	<meta property="og:locale" content="de_DE">
 	<meta property="og:url" content="https://igelhilfe-ludwigshafen.de/">
 	<meta property="og:site_name" content="Igelhilfe Ludwigshafen">
 	<meta property="og:title" content="Igel gefunden, was nun? – Igelhilfe Ludwigshafen">
-	<meta property="og:description" content="Igelstation und gemeinnütziger Verein. Notfallnummer für verletzte, kranke und hilflose Igel: +49 176 5386 9871.">
-	<meta property="og:description" content="Wir sind ein gemeinnütziger Verein der sich der Aufklärungsarbeit und Förderung von Lebensraum für Igel widmet. Wir betreiben eine amtl. genehmigte Auffangstation zur Pflege kranker, verletzter und hilfloser Igel mit dem Ziel der Wiederauswilderung.">
+	<meta property="og:description" content="Der Verein „Igelhilfe Ludwigshafen” wurde aufgelöst, die Igelstation geschlossen.">
 	<meta property="og:image" content="https://igelhilfe-ludwigshafen.de/img/igor-150.jpg">
 	<meta property="og:image:type" content="image/jpeg">
 	<meta property="og:image:width" content="150">
 	<meta property="og:image:height" content="150">
-	<meta property="fb:app_id" content="@IgelhilfeLudwigshafen">
 	<meta name="theme-color" content="#066">
 	<title>Igelhilfe Ludwigshafen</title>
 	<link rel="sitemap" type="application/xml" title="Sitemap" href="https://igelhilfe-ludwigshafen.de/sitemap.xml">
@@ -107,12 +104,10 @@ default:
 							<li><a href="?page=biologie">Biologie</a></li>
 							<li><a href="?page=ernaehrung">Ernährung</a></li>
 							<li><a href="?page=gefahren">Gefahren</a></li>
-							<li><a href="?page=auswilderung">Auswilderung</a></li>
 						</ul>
 					</li>
 
 					<li><a href="?page=wir">Über uns</a></li>
-					<li><a href="?page=spenden"><span style="color: red;">❤️</span>&nbsp;Spenden</a></li>
 				</ul>
 			</div>
 

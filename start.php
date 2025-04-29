@@ -1,9 +1,8 @@
 <!--h1>Igel gefunden, was nun?</h1-->
 <h1>Igel gefunden?</h1>
 
-<p style="color: red; font-size: 16pt; font-weight: 700;">Unsere Igelstation ist auf unbestimmte Zeit geschlossen.</p>
-<p style="font-weight: 800;">Dementsprechend können wir keine Igel aufnehmen - auch keine Notfälle. Es finden keine Beratungsgespräche oder Rückrufe statt.</p>
-<p style="font-weight: 500;">Von Nachrichten per Messenger oder E-Mail bezüglich Igelfunden bitten wir abzusehen.</p>
+<p style="color: red; font-size: 16pt; font-weight: 700;">Unsere Igelstation ist geschlossen.</p>
+<p style="color: red; font-size: 14pt; font-weight: 500;">Der Verein befindet sich in Auflösung.</p>
 <p style="font-weight: 800;">Bei hilflosen, verletzten oder kranken Igeln bitte eine Igelstation / Pflegestelle über unsere <a href="?page=pflegestellen">Pflegestellen-Links</a> suchen und in der Zwischenzeit unsere Ratschläge zur <a href="?page=erste-hilfe"><span style="color: red;">✚</span>&nbsp;Ersten Hilfe</a> zu Rate ziehen.</p>
 
 <h2>Was ist bei Igelfunden zu beachten?</h2>

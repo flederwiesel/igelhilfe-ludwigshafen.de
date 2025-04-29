@@ -1,7 +1,6 @@
 <h1>Pflegestellen</h1>
 
-<p>Da wir nur eine begrenzte Zahl an Igeln aufnehmen können und dürfen,
-bitten wir darum, sich hier eine Alternative zu suchen:
+<p>Verletzte und kranke Tiere sollten nicht alleine vom Laien versorgt werden. Bitte umgehend eine Wildtierstation aufsuchen. Kontaktinformationen sind unter diesen Links zu finden:
 	<ul>
 		<li>
 			<span style="font-weight: bold">

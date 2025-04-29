@@ -2,8 +2,6 @@
 
 declare -A prio=(
 	[erste-hilfe]=1.0
-	[anreise-parken]=0.0
-	[auswilderung]=0.1
 	[biologie]=0.1
 	[datenschutz]=0.1
 	[ernaehrung]=0.1
@@ -14,7 +12,6 @@ declare -A prio=(
 	[impressum]=0.1
 	[index]=1.0
 	[pflegestellen]=0.5
-	[spenden]=0.5
 	[start]=1.0
 	[wir]=0.1
 )
